@@ -44,5 +44,7 @@
 ⭐️ Currently building AI and full-stack projects
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=BetelJambo-tech&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=BetelJambo-tech&show_icons=true&theme=dark&hide=issues,contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BetelJambo-tech&layout=compact&theme=dark)
 
