@@ -8,6 +8,15 @@
 
 ## 🔥 Projects
 
+### 📄 AI Resume Analyzer + Job Matcher
+- Built an NLP-based web app to analyze resumes against job descriptions  
+- Implemented skill extraction and match scoring using Python  
+- Developed an interactive Streamlit UI for real-time feedback  
+- 🌐 Live: https://ai-resume-analyzer-job-matcher-tebemps34hbwjuk6prkj4p.streamlit.app/  
+- 💻 Code: https://github.com/BetelJambo-tech/ai-resume-analyzer-job-matcher
+
+---
+
 ### 📸 Face Recognition Attendance System
 - Built and deployed an AI-powered attendance system using OpenCV and Streamlit  
 - Multi-user recognition with real-time tracking and filtering  
